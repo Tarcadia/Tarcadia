@@ -23,7 +23,6 @@ It is my glad to see you here. This is Tarcadia.
 ![Minecraft](https://img.shields.io/badge/-Minecraft-4e6b31?style=flat-square&logo=minecraft&logoColor=93847f)
 
 ![Tarcadia GitHub Stats](https://github-readme-stats.vercel.app/api/?username=tarcadia&count_private=true&showicons=true&theme=cobalt&card_width=350)
-
 ![Tarcadia GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tarcadia&langs_count=10&theme=cobalt&layout=compact&card_width=300)
 
 
