@@ -3,10 +3,13 @@
 It is my glad to see you here. This is Tarcadia.
 
 - 🎨 Not good at coding, but good at thinking useless things on how to code.
-- ✨ Most preferred personal repo is [![Dynascii](https://img.shields.io/badge/-Dynascii-333377?style=flat-square&logo=windowsterminal&logoColor=7777ff)](https://github.com/Tarcadia/Dynascii).
+- ✨ Most preferred personal repo is [Dynascii](https://github.com/Tarcadia/Dynascii).
 - 📚 UESTC, NTU
 
 - ⚡ _Tarcadia is a name of non-sense. It maybe come from *Arcadia* or form *Tar-* in Quenya. I do have no idea of how it came to me._
+
+[![Dynascii](https://img.shields.io/badge/-Dynascii-333377?style=flat-square&logo=windowsterminal&logoColor=7777ff)](https://github.com/Tarcadia/Dynascii)
+[![CreazySnake](https://img.shields.io/badge/-CreazySnake-bbe0e3?style=flat-square)](https://github.com/Tarcadia/CrazySnake)
 
 ![Python](https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logo=python&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-f29111?style=flat-square&logo=openjdk&logoColor=3a75b0)
