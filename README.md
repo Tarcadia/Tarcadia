@@ -4,8 +4,6 @@ Glad to see you here. This is Tarcadia.
 
 🎨 Not good at coding, but good at thinking useless things on how to code.
 
-📚 UESTC, NTU
-
 ⚡ _Tarcadia is a name of non-sense. It maybe come from *Arcadia* or form *Tar-* in Quenya. I do have no idea of how it came to me._
 
 #### Check for these repositories
