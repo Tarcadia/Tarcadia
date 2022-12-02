@@ -7,7 +7,7 @@ Glad to see you here. This is Tarcadia.
 ⚡ _Tarcadia is a name of non-sense. It maybe come from *Arcadia* or form *Tar-* in Quenya. I do have no idea of how it came to me._
 
 #### Check for these repositories
-[![Dynascii](https://img.shields.io/badge/-Dynascii-333377?style=flat-square&logo=windowsterminal&logoColor=7777ff)](https://github.com/Tarcadia/Dynascii)
+[![Dynascii](https://img.shields.io/badge/-Dynascii-333377?style=flat-square&logo=windowsterminal&logoColor=7777ff)](https://github.com/Old-Linkage-Dev/Dynascii)
 [![CreazySnake](https://img.shields.io/badge/-CreazySnake-bbe0e3?style=flat-square&logo=lazarus&logoColor=0c0e5b)](https://github.com/Tarcadia/CrazySnake)
 
 #### Labels
