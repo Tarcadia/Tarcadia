@@ -12,16 +12,19 @@ Glad to see you here. This is Tarcadia.
 [![BXU](https://img.shields.io/badge/-BXU-7777ff?style=flat-square&logo=xilinx&logoColor=e01f27)](https://github.com/Tarcadia/BXU)
 
 #### Labels
+[![C](https://img.shields.io/badge/-C-e3000f?style=flat-square&logo=c&logoColor=ffffff)]()
 [![Python](https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logo=python&logoColor=ffffff)]()
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=ffffff)]()
 [![Java](https://img.shields.io/badge/-Java-f29111?style=flat-square&logo=openjdk&logoColor=3a75b0)]()
 [![Verilog](https://img.shields.io/badge/-Verilog-e5e493?style=flat-square&logo=xilinx&logoColor=e01f27)]()
 [![DPDK](https://img.shields.io/badge/-DPDK-98258f?style=flat-square&logo=opensourceinitiative&logoColor=f04f24)]()
 [![MATLAB](https://img.shields.io/badge/-MATLAB-0076a8?style=flat-square&logo=octave&logoColor=c04c0b)]()
-[![C](https://img.shields.io/badge/-C-e3000f?style=flat-square&logo=c&logoColor=ffffff)]()
 [![Pascal](https://img.shields.io/badge/-Pascal-a324a1?style=flat-square&logo=lazarus&logoColor=0c0e5b)]()
 [![AutoHotKey](https://img.shields.io/badge/-AutoHotKey-22bb4f?style=flat-square&logo=autohotkey&logoColor=ffffff)]()
 [![AltiumDesigner](https://img.shields.io/badge/-AltiumDesigner-a5915f?style=flat-square&logo=altiumdesigner&logoColor=171717)]()
 
+[![Nvidia](https://img.shields.io/badge/-Nvidia-76B900?style=flat-square&logo=nvidia&logoColor=ffffff)]()
+[![Baidu](https://img.shields.io/badge/-Baidu-2932E1?style=flat-square&logo=baidu&logoColor=ffffff)]()
 [![Intel](https://img.shields.io/badge/-Intel-0068b5?style=flat-square&logo=intel&logoColor=ffffff)]()
 [![Huawei](https://img.shields.io/badge/-Huawei-c7000b?style=flat-square&logo=huawei&logoColor=ffffff)]()
 [![NTU](https://img.shields.io/badge/-NTU-d71440?style=flat-square&logo=&logoColor=181c62)]()
